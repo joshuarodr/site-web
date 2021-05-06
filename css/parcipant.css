@@ -1,0 +1,65 @@
+
+body{
+background-color: #9DB1AE;
+
+}
+
+h1.titre{
+    background-color: rosybrown;
+}
+
+
+div.titre{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/* navigation */
+.container{
+    display: flex;
+    
+}
+
+
+
+.item{
+    margin-left: 110px;
+    margin-top: 50px;
+ 
+    padding: 1px;
+}
+
+
+.item2{
+    background-color: rgba(255, 0, 0, 0.541);
+    padding: 10px;
+    color: black;
+    font-weight: 700;
+}
+
+
+.item2:hover{
+    background-color:black;
+    padding: 10px;
+    color:  rgba(255, 0, 0, 0.541);
+    font-weight: 700;
+    transition: 400ms;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+
+div.photopart{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+
